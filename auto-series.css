@@ -1,0 +1,56 @@
+.series_pagination {
+	display: block;
+	width: 100%;
+	padding: 5px;
+	background-color: #cfc;
+	font-weight: bold;
+	text-align: center;
+	cursor: default;
+}
+
+.series_pagination span {
+	display: inline-block;
+	padding: 3px;
+	white-space: nowrap;
+}
+
+.series_pagination a {
+	display: inline-block;
+	border: 1px solid #bbb;
+	border-radius: 3px;
+	margin-left: 2px;
+	padding: 4px 8px;
+	background-color: #fff;
+	text-decoration: none;
+	font-family: monospace;
+}
+
+.series_pagination a.wide {
+	padding: 4px 5px;
+}
+
+.series_pagination a:link {
+	color: #050;
+	cursor: pointer;
+}
+
+.series_pagination a:visited {
+	color: #666;
+	cursor: pointer;
+}
+
+.series_pagination a:hover {
+	color: #ddd;
+	background-color: #282;
+	cursor: pointer;
+}
+
+.series_pagination a.current_post {
+	color: #fff;
+	background-color: #bbb;
+	cursor: default;
+}
+
+.series_item li {
+	margin: 2px;
+}
