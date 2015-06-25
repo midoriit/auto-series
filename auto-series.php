@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Automatic Series Organizer
 	Plugin URI: http://midoriit.com/works/auto-series.html
-	Description: Automaticallly organize pagination and widgets from series of posts.
+	Description: Automatically organize pagination and widgets from series of posts.
 	Version: 0.3
 	Author: Midori IT Office, LLC
 	Author URI: http://midoriit.com/
