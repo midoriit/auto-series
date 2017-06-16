@@ -1,12 +1,12 @@
-#Automatic Series Organizer
+# Automatic Series Organizer
 連載記事のページネーションと連載記事一覧のウィジェットを自動的に構成するWordPressプラグインです。
 
-###利用方法
+### 利用方法
 series_idというカスタムフィールドに連載名を記入します。
 
 ![カスタムフィールド](http://midoriit.com/images/2014/06/autoseries1.png)
 
-###表示例
+### 表示例
 同じ連載名の記事だけをまとめたページネーションが表示されます。
 
 ![ページネーション](http://midoriit.com/images/2014/06/autoseries2.png)
@@ -15,7 +15,7 @@ series_idというカスタムフィールドに連載名を記入します。
 
 ![ウィジェット](http://midoriit.com/images/2014/06/autoseries3.png)
 
-###インストール方法
+### インストール方法
 ZIPファイルをダウンロードし、解凍してできたauto-seriesフォルダをWordPressインストール先のwp-content/pluginsの中にコピーします。
 WordPressのプラグイン管理ページにAutomatic Series Organizerプラグインが登録されますので「有効化」します。
 さらに、テーマを編集してページネーションを出力したい箇所でseries_pagination()関数を呼び出します。
